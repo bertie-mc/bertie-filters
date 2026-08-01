@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Development has moved to [`bertie-mc/bertie`](https://github.com/bertie-mc/bertie/tree/main/mods/bertie-filters). This repository is retained read-only for historical tags, releases, and issues.
+
 # Bertie Filters
 
 Adds an FTB Filter System custom filter (`bertie:wooden`) that matches wooden-material Slag 'n' Embers modular tools and armor by reading nested part NBT the default component filter cannot reach.
